@@ -26,8 +26,8 @@
 `AWS_ACCESS_KEY_ID=AKIA1SFAESADASFASR5D`\
 `AWS_SECRET_ACCESS_KEY=Aasdfiajfar1O9DFASDAA3rasdas02304adsq9re`
 
-- Clone this repository with `git clone git@gitlab.com:flightlesstux/nginx-app-aws-ecs.git`
-- `cd nginx-app-aws-ecs/ireland/`
+- Clone this repository with `git clone git@github.com:flightlesstux/aws-ecs-nginx-app.git`
+- `cd aws-ecs-nginx-app/ireland/`
 - `terraform init` For make sure about terraform modules.
 - `terraform plan` to see how your environment looks like before deploy.
 - `terraform apply` to make a deploy.
